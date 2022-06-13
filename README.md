@@ -1,2 +1,3 @@
 - Hi, I’m @kolyabazlov
-- I’m interested in Frontend dev.
+- Web dev.
+- Now working at Sber Tech
