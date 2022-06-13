@@ -1,3 +1,3 @@
-- Hi, I’m Kolya Bazlov,
-- Web dev. from Moscow.
-- Now working at Sber Tech
+Hi, I’m Kolya Bazlov.  
+Web developer from Moscow.  
+Now working at Sber Tech
