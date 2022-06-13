@@ -1,3 +1,3 @@
-- Hi, I’m @kolyabazlov
-- Web dev.
+- Hi, I’m Kolya Bazlov,
+- Web dev. from Moscow.
 - Now working at Sber Tech
